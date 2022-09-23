@@ -1,8 +1,8 @@
 [features]
 seeds = false
 skip-lint = false
-[programs.localnet]
-myepicproject = "4pcvRiBAAzooGJjavJ1xUXpzKxzf5ATrjDFAJwXQjmUK"
+[programs.devnet]
+myepicproject = "4vkmm89swCsoiSEjAtLVFFREj5E3FDuCD9gfVQpwhXcf"
 
 [registry]
 url = "https://api.apr.dev"
