@@ -1,0 +1,15 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.localnet]
+myepicproject = "4pcvRiBAAzooGJjavJ1xUXpzKxzf5ATrjDFAJwXQjmUK"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "/Users/xavierjones/.config/solana/id.json"
+
+[scripts]
+test = "node tests/myepicproject.js"
